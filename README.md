@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Hi there 👋<h1>
+<hr>
+
+<h2>I'm a Junior Software Developer with a background in Education and Sales.<h2>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scecin&show_icons=true&theme=radical"/>
